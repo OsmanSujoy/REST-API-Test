@@ -29,7 +29,7 @@
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.21",
     "mongoose": "^6.8.0",
-    "nanoid": "^4.0.0",
+    "nanoid": "3.3.4",
     "pino": "^8.7.0",
     "pino-pretty": "^9.1.1",
     "prom-client": "^14.1.0",
